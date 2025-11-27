@@ -17,6 +17,11 @@ public class JavaApplication2 {
         // TODO code application logic here
         System.out.println("Hola, este es el programa principal.");
         System.out.println("Practica de Git en NetBeans.");
+        System.out.println("cambio 1");
+        System.out.println("cambio 2");
+        System.out.println("cambio 3");
+        System.out.println("cambio 4");
+        System.out.println("cambio 5");
     }
     
 }
